@@ -6,6 +6,7 @@ Free proxy subscription for v2rayN & v2rayNG. Personal use only.
 + [v2rayN](https://github.com/2dust/v2rayN) & [v2rayNG](https://github.com/2dust/v2rayNG)
 + v2rayN & v2rayNG tutorials
   + (TBC)
++ [Xray core](https://github.com/XTLS/Xray-core)
 + Free proxy lists
   + (TBC)
 + [Proxy screening tutorial](https://bulianglin.com/archives/nodescatch.html)
