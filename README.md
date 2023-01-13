@@ -2,6 +2,14 @@
 
 Free proxy subscription for v2rayN & v2rayNG. Personal use only.
 
+  
+
+**Subscription links**
++ Default link
++ Alternative link 1 （accessible from China, thanks to gh-proxy and can be followed here)
++ Alternative link 2 （accessible from China, thanks to FastGit UK and can be followed here)
++ Alternative link 3 （accessible from China, thanks to 7ED Services and can be followed here)
+
 **Resources：**
 + [v2rayN](https://github.com/2dust/v2rayN) & [v2rayNG](https://github.com/2dust/v2rayNG)
 + v2rayN & v2rayNG tutorials
