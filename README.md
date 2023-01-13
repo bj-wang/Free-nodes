@@ -18,5 +18,5 @@ Free proxy subscription for v2rayN & v2rayNG. Personal use only.
   + (TBC)
 + [Proxy screening tutorial](https://bulianglin.com/archives/nodescatch.html)
 + [Proxy screening software](https://github.com/bulianglin/demo)
-+ [Generating subscription tutorial](https://blog.csdn.net/yulupaopao/article/details/115077709)
++ [Generating subscription link tutorial](https://blog.csdn.net/yulupaopao/article/details/115077709)
 + [Base 64 coding](https://tool.oschina.net/encrypt?type=3)
