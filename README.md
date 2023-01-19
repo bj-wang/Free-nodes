@@ -24,7 +24,7 @@ Free proxy subscription for v2rayN & v2rayNG. Personal use only.
   + [Link 07](http://168.138.45.251/clash/proxies) ([source 07](http://168.138.45.251/))
   + [Link 08](https://jiedian.likexiaogao.top/clash/proxies) ([source 08](https://jiedian.likexiaogao.top/))
   + [Link 09](https://raw.githubusercontent.com/OTRSU/Proxies/master/Eternity) ([source 09](https://github.com/OTRSU/Proxies))
-  + [Link 10](https://sub.nicevpn.top/long) ([source 10](https://github.com/NiceVPN123/NiceVPN))
+  + [Link 10](https://raw.githubusercontent.com/ermaozi/get_subscribe/main/subscribe/v2ray.txt) ([source 10](https://github.com/ermaozi/get_subscribe))
   + [Link 11](https://raw.fastgit.org/freefq/free/master/v2) ([source 11](https://github.com/freefq/free))
   + [Link 12](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg) ([source 12](https://github.com/Jsnzkpg/Jsnzkpg))
   + [Link 13](https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2) ([source 13](https://github.com/aiboboxx/v2rayfree))
