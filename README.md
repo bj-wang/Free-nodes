@@ -29,7 +29,7 @@ Free proxy subscription for v2rayN & v2rayNG. Personal use only.
   + [Link 12](https://raw.githubusercontent.com/Jsnzkpg/Jsnzkpg/Jsnzkpg/Jsnzkpg) ([source 12](https://github.com/Jsnzkpg/Jsnzkpg))
   + [Link 13](https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2) ([source 13](https://github.com/aiboboxx/v2rayfree))
   + [Link 14](https://kxswa.tk/v2ray) ([source 14](https://github.com/kxswa/k))
-  + [link 15](https://freefq.neocities.org/free.txt)
+  + [Link 15](https://freefq.neocities.org/free.txt)
 + Free proxies (without permanent subscription links)
   + [Source 01: Shadowshare APP](https://shadowshare.v2cross.com/) ([GitHub](https://github.com/Pawdroid/Free-servers))
   + [Source 02](https://github.com/mianfeifq/share)
