@@ -1,4 +1,4 @@
-### Last update: 20230224
+### Last update: 20230228
 
 Free proxy subscription for v2rayN & v2rayNG. **Personal use only.**
 
@@ -30,8 +30,7 @@ Free proxy subscription for v2rayN & v2rayNG. **Personal use only.**
   + [Link 13](https://raw.githubusercontent.com/aiboboxx/v2rayfree/main/v2) ([source 13](https://github.com/aiboboxx/v2rayfree))
   + [Link 14](https://kxswa.tk/v2ray) ([source 14](https://github.com/kxswa/k))
   + [Link 15](https://freefq.neocities.org/free.txt)
-  + [Link 16](https://my5353.com/kunkun)
-  + [Link 17](https://nuo.jaywsn.top/V2ray)
+  + [Link 16](https://nuo.jaywsn.top/V2ray)
 + Free proxies (without permanent subscription links)
   + [Source 01: Shadowshare APP](https://shadowshare.v2cross.com/) ([GitHub](https://github.com/Pawdroid/Free-servers))
   + [Source 02](https://github.com/mianfeifq/share)
