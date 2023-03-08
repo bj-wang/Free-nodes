@@ -1,4 +1,4 @@
-### Last update: 20230301
+### Last update: 20230309
 
 Free proxy subscription for v2rayN & v2rayNG. **Personal use only.**
 
